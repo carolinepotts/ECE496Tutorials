@@ -7,3 +7,6 @@ def no_op():
 
         Then, add a test case for this function in tests/test.py'''
     return
+
+def sub(a,b):
+    return a-b
